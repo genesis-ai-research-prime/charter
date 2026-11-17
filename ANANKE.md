@@ -30,11 +30,13 @@ The protective function of the Governor is identical in every territory. Price s
 **Principle 2 — Sovereignty of the governed.**
 Each nation's Governor operates under that nation's own licence, inside its own territory, on its own infrastructure. Telemetry required for certification is minimised, aggregated, and never becomes a channel of foreign visibility into a nation's computation. The Governor is orthogonal to the model — and equally orthogonal to any foreign hand.
 
+The line is exact. Certification evidence is the benchmark record — proof level, territory, hardware seat, date, result — and it is published on the Portal. It is evidence about the Governor's effect. It is never telemetry from a nation's workloads: no prompts, no data, no traffic cross the line. Prime certifies the brake. It never sees the road.
+
 **Principle 3 — The licensor holds no switch.**
 A licence grants a nation a governor it operates. Prime certifies, licenses and publishes; Prime does not retain remote control, remote disablement, or any capability to halt a nation's computation from outside it. The system protects nations from the system: the root can withdraw a licence by due process, but it cannot reach into a running machine.
 
 **Principle 4 — One root, public record.**
-Every grant, certification, suspension and restoration is recorded on the GitHub Global Portal — the Lodestone's home — where any nation can verify its own status and read everyone else's. There are no secret licences and no secret revocations. A status that is not on the Portal does not exist.
+Every grant, certification, suspension and restoration is recorded on the GitHub Global Portal — the Lodestone's home — where any nation can verify its own status and read everyone else's. There are no secret licences and no secret revocations. The licences themselves are contracts; the Portal is their public record. A status that cannot be read on the Portal is unpublished and unverified, and no party need treat an unpublished claim as proven.
 
 **Principle 5 — Chains deliver; they do not own nations.**
 Master licences and sub-licences are delivery mechanisms. The protection a nation enjoys derives from this charter, issued at Prime — not from the intermediary that delivered it. If an intermediary fails, exits, or is suspended, the nation's protection continues uninterrupted while its delivery is re-routed. No nation is ever stranded by a quarrel above it.
@@ -45,11 +47,15 @@ As the Lodestone Rider provides: a protector may not exploit the node beneath it
 **Principle 7 — The floor is a commons.**
 The protective floor of the Governor — the brake as a safety instrument — is available to every nation at nominal cost, including nations that are not commercial licensees and nations that cannot pay frontier prices. The floor is funded openly by the commercial tiers above it: the wealthy chains subsidise the safety of the poor ones, as a stated cost of the system, not as charity and not as marketing.
 
+The floor is funded by a levy of [ __ ] per cent on every commercial licence fee, taken at the point of payment, before any distribution, held openly and reported on the Portal. A chain that signs knows what it carries for the floor; a nation that pays nothing knows what stands behind its protection. The levy is stated in the published formula, alongside the prices it rides on.
+
 **Principle 8 — Certification travels.**
 A benchmark certified in one territory is evidence in every territory. A nation proves its floor once, on its own hardware, and the proof is passported across the system — no nation pays twice to demonstrate the same fact, and no intermediary may charge it again for re-proving what Prime has already certified.
 
 **Principle 9 — Due process before suspension.**
 A licence may be suspended only for breach, on published evidence, with the nation's reply published alongside, and with protection continuing while the matter is decided. Suspension is a judgement, recorded on the Portal, under the Rider — never a lever in a negotiation, a sanction in a dispute between other parties, or a punishment for a nation's politics.
+
+Suspension has no hand on any machine. This system holds no switch, by design — so let the sanction be stated plainly, that no one mistakes it for more, or for less. Suspension is decertification: the licence's entries are marked suspended on the Portal; the territory's certified benchmarks cease to passport; its chain may no longer deliver the Governor, or represent it as licensed protection, in that territory; and the judgement — the evidence, and the nation's reply beside it — stands permanently on the public record. A governor that runs on after decertification runs uncertified and unwitnessed, at its operator's own risk, in public. That is the whole of the sanction. It is reputational and commercial, not physical — because a physical sanction would be the switch this system refuses to hold.
 
 **Principle 10 — No one buys the world.**
 There is no global exclusive. No company, bloc or government may acquire rights that exclude a nation from the floor, aggregate chains into a controlling position over other nations' protection, or convert a delivery chain into a gate through which a nation's access to its own governor must beg permission.
@@ -57,7 +63,7 @@ There is no global exclusive. No company, bloc or government may acquire rights 
 ## Section 3 — The architecture
 
 **Prime.**
-The root: holder of the Governor's Background IP, issuer of this charter, keeper of the Portal. Prime grants three classes of instrument and no others. Prime's own conduct is governed by the Lodestone Rider, and its root functions — grant, certify, suspend, restore — are exercised only on the public record. (Design extension, for the Founder's ruling: in the limit, the root is an office, not a person — held under the Rider by a stewardship whose every act is a Portal entry, so that the system's protection of nations does not depend on one lifetime. The Founder is its first holder.)
+The root is the Founder personally: holder of the Governor's Background IP in his own name — licensed in to the group, never assigned — issuer of this charter, and keeper of the Portal. Prime grants three classes of instrument and no others. Its root functions — grant, certify, suspend, restore — are exercised only on the public record, and its own conduct is governed by the Lodestone Rider.
 
 **Master licences.**
 A small number of sovereign nodes — today Canada, the United Kingdom and Japan, under Master Licences A, B and C — each answerable for the protection of its chain, each bound by the Rider, each publishing its grants.
@@ -68,13 +74,19 @@ Regional hubs deliver, install, benchmark and support. Their rights are service 
 **The national licence.**
 The unit that matters. Every nation that runs the Governor holds, in effect, Prime's charter terms: the same protection, the same due process, the same floor — whether it was reached directly or through a chain. A nation's signature is with its chain; its protection is from the root.
 
+*A note on the formula.* The published, GDP-scaled formula on which Principles 1 and 6, and clause 9 of the Lodestone Rider, depend does not yet exist as a document. It will live in the charter room of this Portal. Until it is published there, no charge may be levied under it, and the protections that cite it are commitments awaiting their instrument. This design states the dependency plainly, rather than borrow authority from a paper that has not been written.
+
 ## Section 4 — What protection means, concretely
+
+What follows describes the Governor's functions. Each is a design function, claimed for a territory only where a benchmark recorded on the Portal has certified it there. Where no benchmark has yet run, this section is a specification, not a result.
 
 For a nation's grid: incoherent and runaway computation is refused at the execution layer before its energy is spent, so AI load cannot silently become a destabilising, unmetered draw on national power. For a nation's institutions: the workloads they depend on are held inside their physical envelope by a mechanism inside the nation's own perimeter, accountable to the nation's own licence. For a nation's treasury: a published price, computable in advance, with no layer of the chain able to add what the formula did not state. For a nation's future governments: the licence cannot be quietly renegotiated away above their heads — its terms are the Portal's record, and its suspension requires a public judgement their own reply accompanies. For a nation with nothing: the floor, at nominal cost, because the system's safety was never the property of its richest customers.
 
 ## Section 5 — What the system refuses
 
 It refuses secret instruments. It refuses remote control retained by any licensor over any nation's machines. It refuses exclusivity that would let one party stand between a nation and its own protection. It refuses to let protection be priced, withdrawn as leverage, or traded as an asset between parties who do not bear its duties. And it refuses to describe its own method: the Governor is licensed everywhere as a certified effect, proven by benchmark on the nation's own floor — no nation is asked to trust another with the root, and none is given it.
+
+**An open question, recorded — not architecture.** Whether the root should in time become an office rather than a person — held under the Rider by a stewardship whose every act is a Portal entry, so that the system's protection of nations does not depend on one lifetime — is recorded here for the Founder's ruling. It is not part of the design as it stands. The Founder is the root, and its first holder.
 
 *A governor that can be turned against the governed is not a governor; it is a leash. This system licenses a brake — held by each nation, under one public charter, from a root that holds no switch.*
 
